@@ -1,0 +1,44 @@
+- Menu Utama
+  - 1. Pesan
+    - Tampilkan daftar menu
+    - Input nomor menu
+      - Jika tidak valid → ulang input
+      - Jika valid → lanjut
+    - Input jumlah
+    - Simpan pesanan
+    - Ulang input menu
+    - Input 0 → selesai
+    - Tampilkan struk
+      - List pesanan
+      - Total harga
+      - Diskon (jika > 100rb)
+      - Pajak 10%
+      - Biaya service
+      - Grand total
+
+  - 2. Kelola Menu
+    - 1. Tambah
+      - Input nama
+      - Input harga
+      - Input kategori
+      - Simpan menu
+
+    - 2. Ubah
+      - Tampilkan menu
+      - Input nomor menu
+        - Jika tidak valid → ulang
+        - Jika valid → lanjut
+      - Input harga baru
+      - Update menu
+
+    - 3. Hapus
+      - Tampilkan menu
+      - Input nomor menu
+        - Jika tidak valid → ulang
+        - Jika valid → lanjut
+      - Hapus menu
+
+    - 4. Kembali
+
+  - 3. Keluar
+    - Program selesai

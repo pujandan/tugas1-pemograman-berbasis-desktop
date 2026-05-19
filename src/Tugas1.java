@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Tugas1 {
     public static void main(String[] args) {
 
         // 1. Inisialisasi Data Menu
